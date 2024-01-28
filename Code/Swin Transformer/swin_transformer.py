@@ -2,6 +2,17 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+class PatchParition(nn.Module):
+    # TODO: 패치 파티션 구현
+    def __init__(self, img_size, patch_size):
+        super().__init__()
+        # 초기화 코드
+
+
+    def forward(self, x):
+        # 패치 파티션 수행
+        return x
+
 class PatchEmbedding(nn.Module):
     # TODO: 패치 임베딩 구현
     def __init__(self, img_size, patch_size, in_channels, embed_size):
@@ -40,13 +51,16 @@ class SwinAttention(nn.Module):
     메소드:
     - `forward(x, mask=None)`: Forward pass를 구현합니다.
       `x`: 입력 텐서
-      `mask`: 선택적 attention mask
+      `get_mask`: cyclic shift 이후, 인접하지 않는 window들은 masking을 해줘야 합니다. 이를 위한 mask를 구하도록 합니다.
     """
 
     def __init__(self, dim, num_heads, window_size, shift_size=0):
         super().__init__()
         # 초기화 코드
-
+    
+    def get_mask(self):
+        return
+        
     def forward(self, x, mask=None):
         # Swin Attention 수행
         return
@@ -114,6 +128,7 @@ class SwinStage(nn.Module):
 class Model(nn.Module):
     def __init__(self, img_size, patch_size, in_channels, embed_size, num_layers, num_heads, window_size, shift_size):
         super().__init__()
+        self.patch_partition = PatchParition()
         self.patch_embedding = PatchEmbedding(img_size, patch_size, in_channels, embed_size)
         self.swin_stage = SwinStage(num_layers, embed_size, num_heads, window_size, shift_size)
         #TODO global_pooling 및 mlp 구현

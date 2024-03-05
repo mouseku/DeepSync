@@ -28,7 +28,7 @@
 |  | FlashAttention | Efficient Transformer |  | [Paper](https://arxiv.org/abs/2205.14135) |
 | 2024.02.28 | FastViT | Efficient Transformer | 박지영 | [Paper](https://arxiv.org/pdf/2303.14189.pdf)</br>[Slide](https://github.com/devkade/DeepSync/blob/main/Docs/sprint3/FastViT.pdf) |
 |  | Biformer | Efficient Transformer |  | [Paper](https://arxiv.org/pdf/2303.08810.pdf) |
-|  | Knowledge Distillation: A Survey | Knowledge Distillation |  | [Paper](https://arxiv.org/abs/2006.05525) |
+|  | Knowledge Distillation: A Survey | Knowledge Distillation | 김해문 | [Paper](https://arxiv.org/abs/2006.05525) </br> [Slide](https://drive.google.com/file/d/1d6lnXw-qwoMDoWg8OdR99ZwrW4xdUmxJ/view?usp=sharing)|
 | 2024.02.07 | DeiT | Knowledge Distillation | 김해문 | [Paper](https://arxiv.org/abs/2012.12877)</br> [Slide](https://drive.google.com/file/d/1d6lnXw-qwoMDoWg8OdR99ZwrW4xdUmxJ/view?usp=sharing)  |
 | 2024.01.31 | Generative Agents: Interactive Simulacra of Human Behavior | AI Agent | 박지영 | [Paper](https://arxiv.org/abs/2304.03442)</br>[Review](https://github.com/devkade/DeepSync/blob/main/Docs/sprint3/Generative.Agents-Interactive.Simulacra.of.Human.Behavior.pdf) |
 |  | The Rise and Potential of Large Language Model Based Agents: A Survey | AI Agent |  | [Paper](https://arxiv.org/abs/2309.07864) |

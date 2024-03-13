@@ -21,7 +21,7 @@
 | 2024.02.14 | MegatronLM | Efficient Transformer | 이승호 | [Paper](https://arxiv.org/abs/1909.08053) |
 | 2024.01.24 | Swin Transformer | Efficient Transformer | 오원준 | [Paper](https://arxiv.org/abs/2103.14030)</br>[Review](https://ownogatari.xyz/posts/swin/)</br>[Slide](https://drive.google.com/file/d/1lKkg_PGO7e2EJt5hMZuLiPtA4QZJhIgo/view?usp=sharing)   |
 | 2024.03.13 | zero | Efficient Transformer | 이승호 | [Paper](https://arxiv.org/abs/1910.02054) |
-|  | zero infinity | Efficient Transformer |  | [Paper](https://arxiv.org/abs/2104.07857) |
+|  | zero infinity | Efficient Transformer | 이승호 | [Paper](https://arxiv.org/abs/2104.07857) |
 | 2024.02.14 | Switch Transformer | Efficient Transformer | 오원준  | [Paper](https://arxiv.org/abs/2101.03961)</br>[Slide](https://drive.google.com/file/d/1Q7rAb1MIBOnWCkSuQRQzzvXlw7xyo4Of/view?usp=sharing) |
 |  | DeepSpeed-MoE | Efficient Transformer |  | [Paper](https://arxiv.org/abs/2201.05596) |
 | 2024.01.31 | Paged Attention | Efficient Transformer | 김민준 | [Paper](https://arxiv.org/abs/2309.06180)<br>[Slide](https://github.com/devkade/DeepSync/blob/main/Docs/sprint3/Paged_Attention.pdf) |

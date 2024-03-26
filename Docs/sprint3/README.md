@@ -23,7 +23,7 @@
 |  | zero | Efficient Transformer |  | [Paper](https://arxiv.org/abs/1910.02054) |
 |  | zero infinity | Efficient Transformer |  | [Paper](https://arxiv.org/abs/2104.07857) |
 | 2024.02.14 | Switch Transformer | Efficient Transformer | 오원준  | [Paper](https://arxiv.org/abs/2101.03961) |
-|  | DeepSpeed-MoE or Extreme Compression for Pre-trained Transformers Made Simple and Efficient | Efficient Transformer |  | [Paper](https://arxiv.org/abs/2201.05596) |
+| 2024.03.27 | DeepSpeed-MoE or Extreme Compression for Pre-trained Transformers Made Simple and Efficient | Efficient Transformer | 강동규 | [Paper](https://arxiv.org/abs/2201.05596)</br>[Review](https://altellus.pages.dev/Deep-Learning/DeepSpeed-MoE)|
 | 2024.01.31 | Paged Attention | Efficient Transformer | 김민준 | [Paper](https://arxiv.org/abs/2309.06180) |
 |  | FlashAttention | Efficient Transformer |  | [Paper](https://arxiv.org/abs/2205.14135) |
 | 2024.02.28 | FastViT | Efficient Transformer | 박지영 | [Paper](https://arxiv.org/pdf/2303.14189.pdf) |

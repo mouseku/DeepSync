@@ -19,12 +19,12 @@
 | 2024.03.20 | GPTQ | Quantization | 나보영 | [Paper](https://arxiv.org/abs/2210.17323) |
 | 2024.01.24 | Transformer 톺아보기 | Efficient Transformer | 이승호 |[Review](https://github.com/devkade/DeepSync/blob/main/Docs/sprint3/Transformer%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0.md)  |
 | 2024.02.14 | MegatronLM | Efficient Transformer | 이승호 | [Paper](https://arxiv.org/abs/1909.08053) |
-| 2024.01.24 | Swin Transformer | Efficient Transformer | 오원준 | [Paper](https://arxiv.org/abs/2103.14030)</br>[Review](https://ownogatari.xyz/posts/swin/)</br>[Slide](https://drive.google.com/file/d/1lKkg_PGO7e2EJt5hMZuLiPtA4QZJhIgo/view?usp=sharing)   |
+| 2024.01.24 | Swin Transformer | Efficient Transformer | 오원준 | [Paper](https://arxiv.org/abs/2103.14030)</br>[Review](https://ownogatari.xyz/posts/swin/)</br>[Slides](https://drive.google.com/file/d/1lKkg_PGO7e2EJt5hMZuLiPtA4QZJhIgo/view?usp=sharing)   |
 | 2024.03.13 | zero | Efficient Transformer | 이승호 | [Paper](https://arxiv.org/abs/1910.02054) |
-|  | zero infinity | Efficient Transformer | 이승호 | [Paper](https://arxiv.org/abs/2104.07857) |
-| 2024.02.14 | Switch Transformer | Efficient Transformer | 오원준  | [Paper](https://arxiv.org/abs/2101.03961)</br>[Slide](https://drive.google.com/file/d/1Q7rAb1MIBOnWCkSuQRQzzvXlw7xyo4Of/view?usp=sharing) |
-|  | DeepSpeed-MoE | Efficient Transformer |  | [Paper](https://arxiv.org/abs/2201.05596) |
-| 2024.01.31 | Paged Attention | Efficient Transformer | 김민준 | [Paper](https://arxiv.org/abs/2309.06180)<br>[Slide](https://github.com/devkade/DeepSync/blob/main/Docs/sprint3/Paged_Attention.pdf) |
+|  | zero infinity | Efficient Transformer |  | [Paper](https://arxiv.org/abs/2104.07857) |
+| 2024.02.14 | Switch Transformer | Efficient Transformer | 오원준  | [Paper](https://arxiv.org/abs/2101.03961) |
+| 2024.03.27 | DeepSpeed-MoE or Extreme Compression for Pre-trained Transformers Made Simple and Efficient | Efficient Transformer | 강동규 | [Paper](https://arxiv.org/abs/2201.05596)</br>[Review](https://altellus.pages.dev/Deep-Learning/DeepSpeed-MoE)|
+| 2024.01.31 | Paged Attention | Efficient Transformer | 김민준 | [Paper](https://arxiv.org/abs/2309.06180) |
 |  | FlashAttention | Efficient Transformer |  | [Paper](https://arxiv.org/abs/2205.14135) |
 | 2024.02.28 | FastViT | Efficient Transformer | 박지영 | [Paper](https://arxiv.org/pdf/2303.14189.pdf)</br>[Slide](https://github.com/devkade/DeepSync/blob/main/Docs/sprint3/FastViT.pdf) |
 | 2024.03.06 | Biformer | Efficient Transformer | 오원준 | [Paper](https://arxiv.org/pdf/2303.08810.pdf)<br>[Slide](https://drive.google.com/file/d/1pHEURkDF5T49DxzWHy6beX_nGiVSafut/view?usp=sharing) |
